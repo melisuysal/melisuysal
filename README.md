@@ -10,7 +10,7 @@
 - 📫 melisuysal_96@hotmail.com
 - 📫 https://www.linkedin.com/in/melis-uysal/
 
-- My goal is not to end the day without learning something new. Let's explore together 😄
+My goal is not to end the day without learning something new. Let's explore together 😄
 
 <!---
 melisuysal/melisuysal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
